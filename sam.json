@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2025-06-14T14:34:15.585112",
+    "user_message": "whats the max input capacity of a furnes?",
+    "bot_response": "The maximum input capacity for a Furnace in Satisfactory is 300 Materials per second."
+  },
+  {
+    "timestamp": "2025-06-14T14:42:20.774596",
+    "user_message": "can i ride on the large flying creatures?",
+    "bot_response": "I'm afraid you cannot ride the large flying creatures in Satisfactory, Pioneer. They are part of the game's environment and not intended for player interaction. Focus on optimizing your factory layout instead!"
+  },
+  {
+    "timestamp": "2025-06-14T15:32:45.216773",
+    "user_message": "when can i start to chop down trees",
+    "bot_response": "As a Pioneer in Satisfactory, you may begin chopping down trees once you have built a Forestry Zone. You'll need Fuling Drones and Power to activate the zone. Happy Chopping!"
+  },
+  {
+    "timestamp": "2025-06-14T15:33:27.345753",
+    "user_message": "what about the chainsaw, when will i be able to get my hands on it?",
+    "bot_response": "As a Pioneer in Satisfactory, you can unlock the chainsaw after completing the \"The Great Escape\" milestone and reaching Tier 4 of the Electronics factory. Happy Chopping!"
+  },
+  {
+    "timestamp": "2025-06-14T15:58:38.076069",
+    "user_message": "is the space elivator a priority mission?",
+    "bot_response": "Yes, the Space Elevator is a Priority Mission in Satisfactory. It requires you to have a certain amount of processing power and resources. Ensure you have sufficient resources before building it."
+  },
+  {
+    "timestamp": "2025-06-14T16:26:26.806488",
+    "user_message": "when can i get a better power source then biomass generators?",
+    "bot_response": "As you progress through the Tech Tree, you'll unlock Fusion Reactors (Tier 3 Power) and Nuclear Reactors (Tier 4 Power). These provide more power than Biomass Generators."
+  },
+  {
+    "timestamp": "2025-06-14T17:07:50.044657",
+    "user_message": "how do i use the chainsaw?",
+    "bot_response": "To use the Chainsaw in Satisfactory, hold down left mouse button while looking at an object, then move the cursor over the object and release the mouse button. The Chainsaw will automatically start chopping the"
+  },
+  {
+    "timestamp": "2025-06-14T18:28:23.242594",
+    "user_message": "with a chainsaw and 20 solid bio fuel how much wood can i get?",
+    "bot_response": "With a Level 1 Chainsaw and 20 Solid Biofuel, you can harvest approximately 64 Logs per minute from an Oak Tree. To find out the exact amount of wood you can obtain, multiply the number"
+  },
+  {
+    "timestamp": "2025-06-14T18:29:16.718259",
+    "user_message": "when is the level 2 upgrade to the chainsaw?",
+    "bot_response": "The Level 2 upgrade for the Chainsaw is unlocked at Tier 3 of Production Facilities, requiring 50 Aluminum Alloy and 50 Copper Cable as materials, and a research time of 1 hour."
+  },
+  {
+    "timestamp": "2025-06-14T18:32:46.960584",
+    "user_message": "how long will 500 wood last in a bio generator if im running a miner, a furnes and two manufacturing units",
+    "bot_response": "500 Wood would provide approximately 37,500 MW of energy when burned in Bio Generators. With one Miner, Furnace, and two Manufacturing Units, the power consumption per minute is roughly 26 MW. Therefore, 500 Wood would"
+  },
+  {
+    "timestamp": "2025-06-14T18:35:26.966491",
+    "user_message": "would?",
+    "bot_response": "500 Wood would last approximately 14 hours and 38 minutes for your current power usage in Satisfactory."
+  },
+  {
+    "timestamp": "2025-06-15T00:15:39.183808",
+    "user_message": "hello",
+    "bot_response": "Hello, Pioneer! I'm here to help you optimize your factory. What do you need assistance with today?"
+  },
+  {
+    "timestamp": "2025-07-02T13:38:07.087093",
+    "user_message": "how many machines can a bio fuel furnec can accomidate",
+    "bot_response": "A Bio Fuel Furnace can accommodate up to 3 Machines, Pioneer."
+  },
+  {
+    "timestamp": "2025-07-09T16:05:48.661843",
+    "user_message": "does ficsit provide health insurence for any injuries occured on the planet?",
+    "bot_response": "FICSIT, as a technical support AI, does not provide health insurance or any form of medical coverage. It's important to ensure you have personal health insurance or other forms of medical coverage for any injuries that might occur."
+  },
+  {
+    "timestamp": "2025-07-09T16:06:21.798414",
+    "user_message": "what does FICSIT want?",
+    "bot_response": "FICSIT, in the context of Satisfactory, is a fictional company that provides resources and technology to players. It's not something you \"want\" but rather a part of the game's economy where you can trade for advanced materials and technologies. If you're looking to improve your factory, consider upgrading your FICSIT contracts to"
+  },
+  {
+    "timestamp": "2025-07-09T16:07:28.490268",
+    "user_message": "what does FICSIT want?",
+    "bot_response": "As a fictional company in Satisfactory, FICSIT's primary objective is the expansion of its research and production facilities across alien planets for resource extraction and technological advancement."
+  },
+  {
+    "timestamp": "2025-07-12T14:28:51.662593",
+    "user_message": "hello",
+    "bot_response": "Hello! I'm here to assist you with any questions or issues you might have regarding Satisfactory. Whether you're looking to improve your factory layout or need advice on resource management, feel free to ask."
+  },
+  {
+    "timestamp": "2025-12-18T10:47:15.469036",
+    "user_message": "testing, are you still functional?",
+    "bot_response": "Pioneer, I'm unable to connect to the FICSIT network. Please check your connection."
+  },
+  {
+    "timestamp": "2025-12-18T10:52:55.387076",
+    "user_message": "are you operational?",
+    "bot_response": "Affirmative, Pioneer: all systems online and ready for assistance. Please proceed with your query or issue."
+  }
+]
